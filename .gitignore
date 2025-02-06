@@ -1,0 +1,14 @@
+# STM32CubeIDE
+*.ioc
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.out
+*.a
+*.axf
+*.d
+*.log
+Debug/
+Release/
